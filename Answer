@@ -1,0 +1,200 @@
+
+# coding: utf-8
+
+# In[1]:
+
+print("Hello World")
+
+
+# In[5]:
+
+age=10
+name='Priya'
+type(age)
+
+
+# In[6]:
+
+type(name)
+
+
+# In[7]:
+
+print("Name = %s. Age = %d" % (name,age))
+
+
+# In[8]:
+
+x=[1,2,3,4,5]
+
+
+# In[9]:
+
+type(x)
+
+
+# In[10]:
+
+min(x)
+
+
+# In[11]:
+
+max(x)
+
+
+# In[12]:
+
+sum(x)
+
+
+# In[13]:
+
+mean(x)
+
+
+# In[14]:
+
+sl='String in single quotes'
+dbl="String in double quotes"
+tpl='''String in single quotes'''
+
+
+# In[15]:
+
+s1
+
+
+# In[16]:
+
+sl
+
+
+# In[17]:
+
+dbl
+
+
+# In[18]:
+
+tpl
+
+
+# In[19]:
+
+print(sl)
+
+
+# In[20]:
+
+print(sl+dbl)
+
+
+# In[21]:
+
+sl[0]
+
+
+# In[22]:
+
+sl[5]
+
+
+# In[23]:
+
+sl[6]
+
+
+# In[24]:
+
+sl[0:6]
+
+
+# In[25]:
+
+sl[0:10:2]
+
+
+# In[26]:
+
+sl[-1]
+
+
+# In[27]:
+
+len(sl)
+
+
+# In[28]:
+
+sl[22]
+
+
+# In[30]:
+
+dict1={'001':'Priya'}
+
+
+# In[31]:
+
+dict1
+
+
+# In[32]:
+
+dict1.keys()
+
+
+# In[33]:
+
+dict1.values()
+
+
+# In[35]:
+
+dict1={'002:Harini'}
+
+
+# In[36]:
+
+dict1.keys()
+
+
+# In[37]:
+
+print(dict1)
+
+
+# In[38]:
+
+dict1={'001':'Priya','002':'Harini','003':'Harish','004':'Chanthini','005':'Jemma'}
+
+
+# In[39]:
+
+dict1[0]
+
+
+# In[40]:
+
+dict1[001]
+
+
+# In[41]:
+
+dict1['001']
+
+
+# In[42]:
+
+dict1['005']
+
+
+# In[43]:
+
+dict1['004']
+
+
+# In[49]:
+
+
